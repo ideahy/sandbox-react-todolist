@@ -1,2 +1,2 @@
-# sandbox-react-todolist
+# sandbox-react-todo
 Created with CodeSandbox
